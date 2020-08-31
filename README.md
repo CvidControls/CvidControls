@@ -1,4 +1,6 @@
-# Hi there 👋
+# <a href="cvidcontrols.github.io">CvidControls</a>
+## Custom Video Controls
+### The video controls is now yours
 
 <!--
 **CvidControls/CvidControls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
